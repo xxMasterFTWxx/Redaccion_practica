@@ -1,3 +1,5 @@
 GitHub es una plataforma de desarrollo colaborativo que utiliza Git para gestionar proyectos de software. 
 
 Es útil porque permite el control de versiones, facilita la colaboración entre desarrolladores, permite la revisión de código, integra herramientas de desarrollo y ofrece visibilidad a proyectos, lo que mejora la calidad y organización del trabajo.
+
+Peruano
